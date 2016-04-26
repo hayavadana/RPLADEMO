@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo By Hayavadana</string>
+    <string name="take_picture">Take a Picture</string>
+    <string name="processing_Time">TimeStamp</string>
+    <string name="plate_No">Num Plate</string>
+    <string name="ShowMoreOptions">Show More Options</string>
+    <string name="preview">Preview</string>
+</resources>
